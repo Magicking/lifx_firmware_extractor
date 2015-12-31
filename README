@@ -1,0 +1,3 @@
+Usage: for i in {1..7}; python3 extract_qrc.py otav1.dll $i > $i
+
+License: Beerware
